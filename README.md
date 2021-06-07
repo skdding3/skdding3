@@ -16,7 +16,12 @@ Working Tools...
 # Career
 - Code States AI BootCamp 21.05.06 ~ 
 
+----------------------------------------------------------------------------------------------
 
+
+[![Sunki's github stats](https://github-readme-stats.vercel.app/api?username=skdding3)](https://github.com/skdding3/github-readme-stats)
+
+----------------------------------------------------------------------------------------------
 # And More...
 
 BUY BITCOIN ! 
