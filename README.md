@@ -19,7 +19,7 @@ Working Tools...
 ----------------------------------------------------------------------------------------------
 
 
-[![Sunki's github stats](https://github-readme-stats.vercel.app/api?username=skdding3)](https://github.com/skdding3/github-readme-stats)
+![Sunki's GitHub stats](https://github-readme-stats.vercel.app/api?username=skdding3&show_icons=true&theme=radical)
 
 ----------------------------------------------------------------------------------------------
 # And More...
