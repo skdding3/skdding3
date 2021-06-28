@@ -29,3 +29,6 @@ MY Notion : https://www.notion.so/skdding/
 BUY BITCOIN ! 
 
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
+
+
+1 Day 1 Commit !
