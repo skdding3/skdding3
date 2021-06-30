@@ -16,6 +16,7 @@ MY Notion : https://www.notion.so/skdding/
 ----------------------------------------------------------------------------------------------
 
 # Career
+- Omniverse PhotoGrapher (StoneHenge, Carin, RoseMont, MonacoAnother) 19.12.01 ~ 21.03.01
 - Code States AI BootCamp 21.05.06 ~ 21.11.23
 
 ----------------------------------------------------------------------------------------------
