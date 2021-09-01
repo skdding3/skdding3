@@ -33,6 +33,9 @@ BUY BITCOIN !
 
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
 
+BUY XRP !
+
+<img src="https://img.shields.io/badge/XRP-000000?style=for-the-badge&logo=Ripple&logoColor=white">
 
 1 Day 1 Commit !
 
