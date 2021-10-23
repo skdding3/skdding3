@@ -9,7 +9,7 @@ My name is Sunki Kim!
 제 목표는!
 Data Analyst / ML Engineer / Data Scientist With Game Domain !
 
-MY Notion :  https://www.notion.so/skdding/AI-bootcamp-95e63ed0d8234f0d8b92e7e760e4ae2c
+MY Notion :  https://www.notion.so/skdding/AI-Exploration-95e63ed0d8234f0d8b92e7e760e4ae2c
 
 ----------------------------------------------------------------------------------------------
 # Working Tools...
