@@ -33,6 +33,20 @@ MY Notion :  https://www.notion.so/skdding/AI-Exploration-95e63ed0d8234f0d8b92e7
 
 https://github.com/for-Statistics/Basic_statistic
 
+## Project
+
+- 다음 비디오게임 설계에 대한 인사이트 도출
+
+- 리그오브레전드 시각화 서비스 (https://www.notion.so/skdding/LOL-Data-Analysis-f6b1cc37dab44ac99888ac3f3da2b448)
+
+- 포켓몬 승부예측 머신러닝 모델 구축
+
+
+
+
+
+
+
 BUY BITCOIN ! 
 
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
