@@ -55,7 +55,6 @@ BUY XRP !
 
 <img src="https://img.shields.io/badge/XRP-000000?style=for-the-badge&logo=Ripple&logoColor=white">
 
-1 Day 1 Commit !
 
 
 -----------------------------------------------------------------------------------------------
