@@ -55,6 +55,7 @@ https://github.com/for-Statistics/Basic_statistic
 
 - 포켓몬 승부예측 머신러닝 모델 구축
 
+- [피파 21 선수 데이터 시각화 웹 서비스](https://github.com/skdding3/Project/tree/main/Project%203/FIFA%20Data%20Analysis%20Service)
 
 
 
