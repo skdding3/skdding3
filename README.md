@@ -43,9 +43,11 @@ MY Notion :  https://www.notion.so/skdding/AI-Exploration-95e63ed0d8234f0d8b92e7
 ----------------------------------------------------------------------------------------------
 # And More...
 
-데이터를 위한 통계과학에 대한 스터디 (21.11 ~)
+[데이터를 위한 통계과학에 대한 스터디](https://github.com/for-Statistics/Basic_statistic) (21.11 ~ )
 
-https://github.com/for-Statistics/Basic_statistic
+[데이터 분석가 직군 역량을 위한 스터디](https://github.com/skdding3/Data-Analyst-Study) (21.12 ~ )
+
+
 
 ## Project
 
