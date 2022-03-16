@@ -6,8 +6,7 @@
 My name is Sunki Kim!
 
 
-제 목표는!
-Data Analyst / ML Engineer / Data Scientist !
+Wannabe Developer (Front-end, Data Science)
 
 MY Notion :  https://www.notion.so/skdding/AI-Exploration-95e63ed0d8234f0d8b92e7e760e4ae2c
 
@@ -34,6 +33,7 @@ MY Notion :  https://www.notion.so/skdding/AI-Exploration-95e63ed0d8234f0d8b92e7
 
 # Career
 - Code States AI BootCamp 21.05.06 ~ 21.11.26 (Completion)
+- Bachelor of Science in Computer Engineering 22.02 ~
 
 ----------------------------------------------------------------------------------------------
 
