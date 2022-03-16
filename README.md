@@ -13,6 +13,13 @@ MY Notion :  https://www.notion.so/skdding/AI-Exploration-95e63ed0d8234f0d8b92e7
 ----------------------------------------------------------------------------------------------
 # Working Tools...
 
+For Front-End
+
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
+
+
+For Data Science
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  
 - Python을 활용하여, 데이터 정제와 가공을 진행합니다. 원하는 칼럼에 대한 EDA를 진행하고자 합니다.
 
