@@ -8,7 +8,7 @@ My name is Sunki Kim!
 
 Wannabe Developer (Front-end, Data Science)
 
-MY Notion :  https://www.notion.so/skdding/AI-Exploration-95e63ed0d8234f0d8b92e7e760e4ae2c
+MY Notion :  https://www.notion.so/skdding/Front-End-53f8d18890284fe9bf41bbf329e8e065
 
 ----------------------------------------------------------------------------------------------
 # Working Tools...
