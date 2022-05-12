@@ -20,7 +20,7 @@ For Front-End
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
 
-- 프
+- React 프레임워크를 활용하여, 페이지 구축을 진행합니다.
 
 For Data Science
 
