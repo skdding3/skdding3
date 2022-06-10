@@ -20,7 +20,7 @@ For Front-End
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white"/> 
 
-- React 프레임워크를 활용하여, 컴포넌트 스타일을  페이지 구축을 진행합니다. 
+- React 프레임워크를 활용하여, 컴포넌트를 스타일링하고  페이지 구축을 진행합니다. 
 
 For Data Science
 
