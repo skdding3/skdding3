@@ -3,7 +3,7 @@
 
 # Introduce
 
-My name is Sunki Kim!
+My name is Sunki Kim!!
 
 
 Wannabe Developer (Front-end, Data Science)
