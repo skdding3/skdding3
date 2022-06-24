@@ -62,6 +62,8 @@ For Data Science
 
 ## Project
 
+- [GRCORD 채팅 페이지](https://github.com/skdding3/grcord)
+
 - [Todo List From React](https://github.com/skdding3/react-todolist)
 
 - [다음 비디오게임 설계에 대한 인사이트 도출](https://github.com/skdding3/Project/blob/main/Section1_Project_Sunki.ipynb)
