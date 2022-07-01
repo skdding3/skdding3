@@ -22,22 +22,6 @@ For Front-End
 
 - React 프레임워크를 활용하여, 컴포넌트를 스타일링하고  페이지 구축을 진행합니다. 
 
-For Data Science
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  
-- Python을 활용하여, 데이터 정제와 가공을 진행합니다. 원하는 칼럼에 대한 EDA를 진행하고자 합니다.
-
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> 
-- Python 언어를 활용하여, 데이터를 살펴보고 시각화 하기위해 활용하는 툴들입니다.
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-
-- SQL을 이용하여, 원하는 칼럼을 추출이 가능합니다.
-
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> 
-
-- 딥러닝을 활용할때 가장 많이 사용하는 툴입니다. 
 
 
 ----------------------------------------------------------------------------------------------
