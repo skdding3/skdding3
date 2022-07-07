@@ -36,19 +36,16 @@ For Front-End
 ![Sunki's GitHub stats](https://github-readme-stats.vercel.app/api?username=skdding3&show_icons=true&theme=radical)
 
 ----------------------------------------------------------------------------------------------
-# And More...
-
-[데이터를 위한 통계과학에 대한 스터디](https://github.com/for-Statistics/Basic_statistic) (21.11 ~ )
-
-[데이터 분석가 직군 역량을 위한 스터디](https://github.com/skdding3/Data-Analyst-Study) (21.12 ~ 22.2)
-
-
 
 ## Project
+
+Front End
 
 - [GRCORD 채팅 페이지](https://github.com/skdding3/grcord)
 
 - [Todo List From React](https://github.com/skdding3/react-todolist)
+
+Data Science
 
 - [다음 비디오게임 설계에 대한 인사이트 도출](https://github.com/skdding3/Project/blob/main/Section1_Project_Sunki.ipynb)
 
@@ -57,6 +54,16 @@ For Front-End
 - 포켓몬 승부예측 머신러닝 모델 구축
 
 - [피파 21 선수 데이터 시각화 웹 서비스](https://github.com/skdding3/Project/tree/main/Project%203/FIFA%20Data%20Analysis%20Service)
+
+
+# And More...
+
+[데이터를 위한 통계과학에 대한 스터디](https://github.com/for-Statistics/Basic_statistic) (21.11 ~ )
+
+[데이터 분석가 직군 역량을 위한 스터디](https://github.com/skdding3/Data-Analyst-Study) (21.12 ~ 22.2)
+
+
+
 
 
 
