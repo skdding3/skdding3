@@ -7,8 +7,6 @@ My name is Sunki Kim!!
 
 Front-End Developer
 
-MY Notion :  [공부 노트](https://www.notion.so/skdding/Front-End-53f8d18890284fe9bf41bbf329e8e065)
-
 ----------------------------------------------------------------------------------------------
 # Working Tools...
 
@@ -64,8 +62,13 @@ Data Science
 
 
 
+MY velog : [벨로그](https://velog.io/@skdding3)
+
+MY Notion :  [공부 노트](https://www.notion.so/skdding/Front-End-53f8d18890284fe9bf41bbf329e8e065)
 
 
+벨로그와 노션을 통해 공부 내용들을 정리하고, 꾸준히 기록 하고 있습니다.
+깃허브 레포지에 각 공부하거나 작업하는 내용들을 정리하는 공간입니다.
 
 
 
