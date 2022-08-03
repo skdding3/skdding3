@@ -26,7 +26,7 @@ For Front-End
 # Career
 - Code States AI BootCamp 21.05.06 ~ 21.11.26 (Completion)
 - Bachelor of Science in Computer Engineering 22.02 ~
-- Front-End Developer 22.08 ~
+- Webiznet Front-End Developer 22.08 ~
 
 ----------------------------------------------------------------------------------------------
 
