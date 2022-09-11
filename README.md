@@ -56,7 +56,9 @@ Data Science
 
 # And More...
 
-[데이터를 위한 통계과학에 대한 스터디](https://github.com/for-Statistics/Basic_statistic) (21.11 ~ )
+[백 & 프론트 엔드 협업 스터디]() (22.7 ~ )
+
+[데이터를 위한 통계과학에 대한 스터디](https://github.com/for-Statistics/Basic_statistic) (21.11 ~ 22.4)
 
 [데이터 분석가 직군 역량을 위한 스터디](https://github.com/skdding3/Data-Analyst-Study) (21.12 ~ 22.2)
 
