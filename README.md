@@ -39,7 +39,7 @@ For Front-End
 
 Front End
 
-- [강남구청 웰에이징 정보관리시스템](https://well.gangnam.go.kr/)
+- [강남구청 웰에이징 정보관리시스템](https://skdding.notion.site/d62172b5dd114bc8a91f3102ca39c59e)
 
 - [GRCORD 채팅 페이지](https://github.com/skdding3/grcord)
 
