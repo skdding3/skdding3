@@ -66,6 +66,8 @@ Data Science
 
 [데이터 분석가 직군 역량을 위한 스터디](https://github.com/skdding3/Data-Analyst-Study) (21.12 ~ 22.2)
 
+클라이밍 어플 개발 사이드 프로젝트 진행중 (프론트엔드 파트 22.12 ~ )
+
 
 
 MY velog : [벨로그](https://velog.io/@skdding3)
