@@ -43,6 +43,8 @@ Front End
 
 - [GRCORD 채팅 페이지](https://github.com/skdding3/grcord)
 
+- [환율 계산기](https://skdding.notion.site/49182c8a20d347cd8954c93328b9dbaf)
+
 - [Todo List From React](https://github.com/skdding3/react-todolist)
 
 Data Science
