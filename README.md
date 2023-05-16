@@ -41,6 +41,8 @@ Front End
 
 - [강남구청 웰에이징 정보관리시스템](https://skdding.notion.site/d62172b5dd114bc8a91f3102ca39c59e)
 
+- [NextJS 포트폴리오 페이지](https://github.com/skdding3/portrait)
+
 - [GRCORD 채팅 페이지](https://github.com/skdding3/grcord)
 
 - [환율 계산기](https://skdding.notion.site/49182c8a20d347cd8954c93328b9dbaf)
