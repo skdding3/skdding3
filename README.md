@@ -91,7 +91,7 @@ BUY XRP !
 
 <img src="https://img.shields.io/badge/XRP-000000?style=for-the-badge&logo=Ripple&logoColor=white">
 
-
+Rock Will Never DIE 🤟 <img src="https://img.shields.io/badge/Peace!-000000?style=for-the-badge&logo=Zalando&logoColor=white" >
 
 -----------------------------------------------------------------------------------------------
 # Contact
