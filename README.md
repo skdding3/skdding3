@@ -12,7 +12,8 @@ Front-End Developer
 
 For Front-End
 
-<img src="https://img.shields.io/badge/Html5-E44D26?style=flat-square&logo=Html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Html5-E44D26?style=flat-square&logo=Html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
+
 - 웹개발 기본적인 개념을 알고 페이지를 구상하고 구현가능합니다. 
 
 <img src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=blue"/> <img src="https://img.shields.io/badge/React Native-000000?style=flat&logo=React&logoColor=blue"/>
@@ -27,6 +28,7 @@ For Front-End
 - Code States AI BootCamp 21.05.06 ~ 21.11.26 (Completion)
 - Bachelor of Science in Computer Engineering 22.02 ~
 - Webiznet Front-End Developer 22.08 ~ 22.11
+- NexChal Front-End Developer 23.07 ~ 
 
 ----------------------------------------------------------------------------------------------
 
