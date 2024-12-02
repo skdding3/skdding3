@@ -91,6 +91,4 @@ Rock Will Never DIE 🤟 <img src="https://img.shields.io/badge/Peace!-000000?st
 
 -----------------------------------------------------------------------------------------------
 # Contact
-Resume : [노션 이력서](https://skdding.notion.site/KIM-SUN-KI-075debf63073426e8ea9c54c7e772852)
-
 E-Mail : skdding3@gmail.com
